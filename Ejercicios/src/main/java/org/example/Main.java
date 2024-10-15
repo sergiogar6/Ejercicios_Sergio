@@ -1,5 +1,4 @@
 package org.example;
-import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -34,8 +33,29 @@ public class Main {
         //Practica3 practica3 = new Practica3();
         //practica3.ejercicio();
 
-        Practica4 practica4 = new Practica4();
-        practica4.ejercicio();
+        //Practica4 practica4 = new Practica4();
+        //practica4.ejercicio();
+
+        //UD2Ejercicio1 ud2ejercicio1 = new UD2Ejercicio1();
+        //ud2ejercicio1.ud2ejercicio();
+
+        //UD2Ejercicio2 ud2ejercicio2 = new UD2Ejercicio2();
+        //ud2ejercicio2.ud2ejercicio();
+
+        //UD2Ejercicio3 ud2ejercicio3 = new UD2Ejercicio3();
+        //ud2ejercicio3.ud2ejercicio();
+
+        //UD2Ejercicio4 ud2ejercicio4 = new UD2Ejercicio4();
+        //ud2ejercicio4.ud2ejercicio();
+
+        //UD2Ejercicio5 ud2ejercicio5 = new UD2Ejercicio5();
+        //ud2ejercicio5.ud2ejercicio();
+
+        UD2Practica1 ud2Practica1 = new UD2Practica1();
+        ud2Practica1.ud2ejercicio();
+
+//        UD2ControlFormatos ud2ControlFormatos = new UD2ControlFormatos();
+//        ud2ControlFormatos.ud2ejercicio();
 
     }
 }
