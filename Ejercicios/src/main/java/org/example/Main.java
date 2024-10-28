@@ -58,8 +58,8 @@ public class Main {
         //ud2EjerciciosBucles.ejercicio5bucles();
 //        ud2EjerciciosBucles.ejercicio6bucles();
 
-        UD2Practica3 ud2Practica3 = new UD2Practica3();
-        ud2Practica3.ud2ejercicio();
+//        UD2Practica3 ud2Practica3 = new UD2Practica3();
+//        ud2Practica3.ud2ejercicio();
 
 //   UD2Random ud2Random = new UD2Random();
 //        //ud2Random.ejercicio1random();
@@ -67,10 +67,15 @@ public class Main {
 //      ud2Random.ejercicio3random();
 //        ud2Random.ejercicio4random();
 
-//        UD2BateriasPrexamen ud2BateriasPrexamen = new UD2BateriasPrexamen();
+        UD2BateriasPrexamen ud2BateriasPrexamen = new UD2BateriasPrexamen();
 //        ud2BateriasPrexamen.ejercicio1prexamen();
 //        ud2BateriasPrexamen.ejercicio2prexamen();
 //        ud2BateriasPrexamen.ejercicio3prexamen();
+//        ud2BateriasPrexamen.ejercicio4prexamen();
+//        ud2BateriasPrexamen.ejercicio5prexamen();
+//        ud2BateriasPrexamen.ejercicio6prexamen();
+        ud2BateriasPrexamen.ejercicio7prexamen();
+
 
 
 
