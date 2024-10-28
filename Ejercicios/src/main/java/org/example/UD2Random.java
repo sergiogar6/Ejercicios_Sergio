@@ -15,7 +15,6 @@ public class UD2Random {
         System.out.println("Primer dado: " + dado2);
         System.out.println(dado1 + " + " + dado2 + " = " + (dado1+dado2));
     }
-
     public void ejercicio2random() {
         String caracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
         int caracteres_lenght = caracteres.length();
@@ -26,6 +25,7 @@ public class UD2Random {
             indice = random.nextInt(caracteres_lenght);
             pass += caracteres.charAt(indice);
         }
+        
 
         System.out.println(pass);
     }
@@ -46,9 +46,7 @@ public class UD2Random {
         } else {
             System.out.println("El minimo no puede ser mayor que el maximo");
         }
-
     }
-
     public void ejercicio4random() {
         String caracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
         int caracteres_lenght = caracteres.length();
@@ -59,8 +57,6 @@ public class UD2Random {
             indice = random.nextInt(caracteres_lenght);
             pass += caracteres.charAt(indice);
         }
-
         System.out.println(pass);
     }
-
 }

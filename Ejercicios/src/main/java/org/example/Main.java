@@ -6,23 +6,13 @@ public class Main {
         //Actividad_inicial actividad_inicial = new Actividad_inicial();
         //actividad_inicial.ejecutar();
 
-        //Ejercicio1 ejercicio1 = new Ejercicio1();
-        //ejercicio1.ejercicio();
-
-        //Ejercicio2 ejercicio2 = new Ejercicio2();
-        //ejercicio2.ejercicio();
-
-        //Ejercicio3 ejercicio3 = new Ejercicio3();
-        //ejercicio3.ejercicio();
-
-        //Ejercicio4 ejercicio4 = new Ejercicio4();
-        //ejercicio4.ejercicio();
-
-        //Ejercicio5 ejercicio5 = new Ejercicio5();
-        //ejercicio5.ejercicio();
-
-        //Ejercicio6 ejercicio6 = new Ejercicio6();
-        //ejercicio6.ejercicio();
+//        UD1ProgramasSencillos ud1ProgramasSencillos = new UD1ProgramasSencillos();
+//        ud1ProgramasSencillos.ejercicio1();
+//        ud1ProgramasSencillos.ejercicio2();
+//        ud1ProgramasSencillos.ejercicio3();
+//        ud1ProgramasSencillos.ejercicio4();
+//        ud1ProgramasSencillos.ejercicio5();
+//        ud1ProgramasSencillos.ejercicio6();
 
         /* Operadores operadores = new Operadores();
         operadores.operadores();
@@ -36,20 +26,12 @@ public class Main {
         //Practica4 practica4 = new Practica4();
         //practica4.ejercicio();
 
-        //UD2Ejercicio1 ud2ejercicio1 = new UD2Ejercicio1();
-        //ud2ejercicio1.ud2ejercicio();
-
-        //UD2Ejercicio2 ud2ejercicio2 = new UD2Ejercicio2();
-        //ud2ejercicio2.ud2ejercicio();
-
-        //UD2Ejercicio3 ud2ejercicio3 = new UD2Ejercicio3();
-        //ud2ejercicio3.ud2ejercicio();
-
-        //UD2Ejercicio4 ud2ejercicio4 = new UD2Ejercicio4();
-        //ud2ejercicio4.ud2ejercicio();
-
-        //UD2Ejercicio5 ud2ejercicio5 = new UD2Ejercicio5();
-        //ud2ejercicio5.ud2ejercicio();
+//        UD2CadenasCaracteres ud2CadenasCaracteres = new UD2CadenasCaracteres();
+//        ud2CadenasCaracteres.ud2ejercicio1();
+//        ud2CadenasCaracteres.ud2ejercicio2();
+//        ud2CadenasCaracteres.ud2ejercicio3();
+//        ud2CadenasCaracteres.ud2ejercicio4();
+//        ud2CadenasCaracteres.ud2ejercicio5();
 
 //        UD2Practica1 ud2Practica1 = new UD2Practica1();
 //        ud2Practica1.ud2ejercicio();
@@ -66,7 +48,7 @@ public class Main {
 //        Ternarias ternarias = new Ternarias();
 //        ternarias.ud2ejercicio();
 
-        //Ejercicio Bucles UD2
+//        Ejercicio Bucles UD2
 
 //        UD2EjerciciosBucles ud2EjerciciosBucles = new UD2EjerciciosBucles();
         //ud2EjerciciosBucles.ejercicio1bucles();
@@ -76,13 +58,21 @@ public class Main {
         //ud2EjerciciosBucles.ejercicio5bucles();
 //        ud2EjerciciosBucles.ejercicio6bucles();
 
-//        UD2Practica3 ud2Practica3 = new UD2Practica3();
-//        ud2Practica3.ud2ejercicio();
+        UD2Practica3 ud2Practica3 = new UD2Practica3();
+        ud2Practica3.ud2ejercicio();
 
-    UD2Random ud2Random = new UD2Random();
+//   UD2Random ud2Random = new UD2Random();
 //        //ud2Random.ejercicio1random();
-////        ud2Random.ejercicio2random();
-//        ud2Random.ejercicio3random();
-        ud2Random.ejercicio4random();
+//        ud2Random.ejercicio2random();
+//      ud2Random.ejercicio3random();
+//        ud2Random.ejercicio4random();
+
+//        UD2BateriasPrexamen ud2BateriasPrexamen = new UD2BateriasPrexamen();
+//        ud2BateriasPrexamen.ejercicio1prexamen();
+//        ud2BateriasPrexamen.ejercicio2prexamen();
+//        ud2BateriasPrexamen.ejercicio3prexamen();
+
+
+
     }
 }
