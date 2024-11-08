@@ -67,14 +67,32 @@ public class Main {
 //      ud2Random.ejercicio3random();
 //        ud2Random.ejercicio4random();
 
-        UD2BateriasPrexamen ud2BateriasPrexamen = new UD2BateriasPrexamen();
+//        UD2BateriasPrexamen ud2BateriasPrexamen = new UD2BateriasPrexamen();
 //        ud2BateriasPrexamen.ejercicio1prexamen();
 //        ud2BateriasPrexamen.ejercicio2prexamen();
 //        ud2BateriasPrexamen.ejercicio3prexamen();
 //        ud2BateriasPrexamen.ejercicio4prexamen();
 //        ud2BateriasPrexamen.ejercicio5prexamen();
 //        ud2BateriasPrexamen.ejercicio6prexamen();
-        ud2BateriasPrexamen.ejercicio7prexamen();
+//        ud2BateriasPrexamen.ejercicio7prexamen();
+
+        UD3BateriaArrays ud3BateriaArrays = new UD3BateriaArrays();
+//        ud3BateriaArrays.ejercicio1();
+//        ud3BateriaArrays.ejercicio2();
+//        ud3BateriaArrays.ejercicio3();
+//        ud3BateriaArrays.ejercicio4();
+//        ud3BateriaArrays.ejercicio5();
+//        ud3BateriaArrays.ejercicio6();
+//        ud3BateriaArrays.ejercicio7();
+//        ud3BateriaArrays.ejercicio8();
+//        ud3BateriaArrays.ejercicio9();
+        ud3BateriaArrays.ejercicio10();
+
+
+
+
+
+
 
 
 
