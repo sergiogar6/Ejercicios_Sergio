@@ -76,7 +76,7 @@ public class Main {
 //        ud2BateriasPrexamen.ejercicio6prexamen();
 //        ud2BateriasPrexamen.ejercicio7prexamen();
 
-        UD3BateriaArrays ud3BateriaArrays = new UD3BateriaArrays();
+//        UD3BateriaArrays ud3BateriaArrays = new UD3BateriaArrays();
 //        ud3BateriaArrays.ejercicio1();
 //        ud3BateriaArrays.ejercicio2();
 //        ud3BateriaArrays.ejercicio3();
@@ -86,7 +86,10 @@ public class Main {
 //        ud3BateriaArrays.ejercicio7();
 //        ud3BateriaArrays.ejercicio8();
 //        ud3BateriaArrays.ejercicio9();
-        ud3BateriaArrays.ejercicio10();
+//        ud3BateriaArrays.ejercicio10();
+
+        UD3Practica1 ud3Practica1 = new UD3Practica1();
+        ud3Practica1.ud3practica();
 
 
 
