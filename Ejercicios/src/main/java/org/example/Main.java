@@ -99,8 +99,17 @@ public class Main {
 //        UD3Practica2 ud3Practica2 = new UD3Practica2();
 //        ud3Practica2.ud3practicca();
 
-        UD3BateriaBuclesAnidados ud3BateriaBuclesAnidados = new UD3BateriaBuclesAnidados();
-        ud3BateriaBuclesAnidados.ud3ejercicio4();
+//        UD3BateriaBuclesAnidados ud3BateriaBuclesAnidados = new UD3BateriaBuclesAnidados();
+//        ud3BateriaBuclesAnidados.ud3ejercicio4();
+//        ud3BateriaBuclesAnidados.ud3ejercicio5();
+
+//        UD3BateriaMatrices ud3BateriaMatrices = new UD3BateriaMatrices();
+//        ud3BateriaMatrices.ud3ejercicio1();
+//        ud3BateriaMatrices.ud3ejercicio2();
+//        ud3BateriaMatrices.ud3ejercicio3();
+
+        UD3Practica3 ud3Practica3 = new UD3Practica3();
+        ud3Practica3.ud3practica();
 
 
 
