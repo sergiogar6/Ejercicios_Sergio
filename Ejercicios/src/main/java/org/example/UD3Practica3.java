@@ -1,14 +1,24 @@
 package org.example;
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class UD3Practica3 {
     public void ud3practica() {
         Scanner entry = new Scanner(System.in);
 
-        System.out.println("Introduce el numero de filas: ");
-        int row_number = entry.nextInt();
-        System.out.println("Introduce el numero de columnas: ");
-        int column_number = entry.nextInt();
+        int row_number;
+        int column_number;
+
+        try {
+            System.out.println("Introduce el numero de filas: ");
+            row_number = entry.nextInt();
+            System.out.println("Introduce el numero de columnas: ");
+            column_number = entry.nextInt();
+        } catch (NumberFormatException | InputMismatchException e) {
+            System.out.println("FORMATO INCORRECTO (introduce numeros)");
+            return;
+        }
+
 
         //LIMPIAR BUFFER
         entry.nextLine();
@@ -18,12 +28,12 @@ public class UD3Practica3 {
         for (int i = 0; i < word_search.length; i++) {
 
             System.out.println("Introduce las letras de la fila " + (i+1) + ": " );
-            String row_letter = entry.nextLine();
+            String row_letter = entry.nextLine().toLowerCase();
             if (!row_letter.matches("[a-zA-Z]+")) {
                 System.out.println("FORMATO INCORRECTO");
                 return;
             }
-            String[] row_letters = row_letter.split(" ");
+            String[] row_letters = row_letter.split("");
             if (row_letters.length == word_search[0].length) {
                 for (int j = 0; j < word_search[0].length; j++) {
                     word_search[i][j] = row_letters[j];
@@ -42,7 +52,7 @@ public class UD3Practica3 {
         }
 
         System.out.println("Introduce la palabra que quieras buscar: ");
-        String word = entry.next();
+        String word = entry.next().toLowerCase();
         boolean found_word = true;
         loop1:
         for (int i = 0; i < word_search.length; i++) {
