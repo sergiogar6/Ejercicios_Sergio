@@ -108,8 +108,14 @@ public class Main {
 //        ud3BateriaMatrices.ud3ejercicio2();
 //        ud3BateriaMatrices.ud3ejercicio3();
 
-        UD3Practica3 ud3Practica3 = new UD3Practica3();
-        ud3Practica3.ud3practica();
+//        UD3Practica3 ud3Practica3 = new UD3Practica3();
+//        ud3Practica3.ud3practica();
+
+//      CaraCruz.caraCruz();
+
+//        UD4Metodos1.CalcularCubo();
+
+        UD4Metodos2.MostrarMenu();
 
 
 
