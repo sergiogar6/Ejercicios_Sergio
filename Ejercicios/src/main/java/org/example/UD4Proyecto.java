@@ -16,6 +16,10 @@ public class UD4Proyecto {
         }
     }
 
+    /**
+     * Método casoDePrueba numero 2 (salida introduciendo 0)
+     * @return - Si es 0 devuelve falso y acaba el programa.
+     */
     public static boolean casoDePrueba() {
 
         String UserOption = entry.nextLine();
